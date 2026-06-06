@@ -1,0 +1,3 @@
+User, Product, and Order tables with individual attributes. One-to-Many relationship established with Primary Keys between User and Order tables. Many-to-Many relationship between Product and Order tables. Utilization of SQLite Database to create tables. 
+
+Status of orders provided via Boolean regex. Queried table of Orders to display unshipped orders. Query of orders to see how many orders per user exists. 
